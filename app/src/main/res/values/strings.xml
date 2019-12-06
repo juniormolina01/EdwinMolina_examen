@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EdwinMolina_examen</string>
+    <string name="title_activity_encuesta">Encuesta</string>
+    <string name="title_activity_resumen">Resumen</string>
+    <string name="lblusuario">Usuario:</string>
+    <string name="txtusuario"></string>
+    <string name="lblcontraseña">Contraseña:</string>
+    <string name="txtcontraseña"></string>
+    <string name="btningresar">Ingresar</string>
+    <string name="txtusuarioconectado">Usuario</string>
+    <string name="lblnombre">Nombre: </string>
+    <string name="lblmontoinicial">Monto Inicial: </string>
+    <string name="lblcuotamensual"></string>
+    <string name="btnguardarregistro">Guardar</string>
+</resources>
